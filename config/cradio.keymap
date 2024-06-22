@@ -58,7 +58,7 @@
             &kp ESC    &kp HASH   &kp DLLR   &kp PRCNT  &kp AMPS       &trans     &kp C_VOL_DN  &kp C_MUTE  &kp C_VOL_UP  &trans
         //├──────────┼──────────┼──────────┼──────────┼──────────┤   ├──────────┼──────────┼──────────┼──────────┼──────────┤
         //│ TAB      │  @       │  (       │  )       │  *       │   │ SECTION  │ PREV     │ PP       │ NEXT     │          │
-            &kp TAB    &kp AT     &kp LPAR   &kp RPAR   &kp STAR       &kp LA(N6) &kp PREV   &kp C_PP   &kp NEXT   &trans
+            &kp TAB    &kp AT     &kp LPAR   &kp RPAR   &kp STAR       &kp LA(N6) &kp C_PREV  &kp C_PP   &kp C_NEXT  &trans
         //├──────────┼──────────┼──────────┼──────────┼──────────┤   ├──────────┼──────────┼──────────┼──────────┼──────────┤
         //│ CMD-Z    │  CMD-X   │  CMD-C   │  CMD-V   │          │   │  PARA    │   /      │  VOICE   │ -        │          │
             &kp LG(Z)  &kp LG(X)  &kp LG(C)  &kp LG(V)   &trans         &kp LA(N7)  &kp SLASH  &kp C_VOICE_COMMAND  &kp MINUS  &trans
