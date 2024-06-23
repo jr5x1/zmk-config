@@ -1,4 +1,4 @@
-// Copyright (c) 2022 The ZMK Contributors
+jj// Copyright (c) 2022 The ZMK Contributors
 // SPDX-License-Identifier: MIT
 
 #include <behaviors.dtsi>
@@ -22,13 +22,13 @@
         };
     };
 
-    conditional_layers {
-        compatible = "zmk,conditional-layers";
-        tri_layer {
-            if-layers = <1 2>;
-            then-layer = <3>;
-        };
-    };
+//    conditional_layers {
+//       compatible = "zmk,conditional-layers";
+//         tri_layer {
+//             if-layers = <1 2>;
+//             then-layer = <3>;
+//         };
+//    };
 
     keymap {
         compatible = "zmk,keymap";
